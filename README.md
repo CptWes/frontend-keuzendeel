@@ -29,3 +29,6 @@ npm run build
 ## Deployment
 ```bash
 npx gh-pages -d dist -f
+```
+## Live Website
+-  https://cptwes.github.io/frontend-keuzendeel/
